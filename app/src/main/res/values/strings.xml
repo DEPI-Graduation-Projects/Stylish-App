@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Stylish</string>
+    <string name="favs">Favourites</string>
+    <string name="cart">My Cart</string>
+    <string name="profile">Profile</string>
+    <string name="user">User</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="Settings">Settings</string>
 </resources>

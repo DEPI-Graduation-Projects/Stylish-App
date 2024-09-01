@@ -9,6 +9,12 @@
         android:title="@string/favs"
         android:icon="@drawable/heart"/>
 
+    <item
+        android:id="@+id/navigation_spacer"
+        android:enabled="false"
+        android:title=""
+        android:icon="@drawable/spacer" />
+
     <item android:id="@+id/search"
         android:title="@string/search"
         android:icon="@drawable/search"/>
